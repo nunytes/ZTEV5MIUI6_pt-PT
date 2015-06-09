@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DTS</string>
+    <string name="srs_title">DTS</string>
+    <string name="list_title">Perfil de Efeitos</string>
+    <string name="volum_enhance">Melhoria de volume</string>
+    <string name="preset_movie">Filme</string>
+    <string name="preset_music">Música</string>
+    <string name="preset_podcast">Podcast</string>
+    <string name="preset_gaming">Jogos</string>
+    <string name="vol_boost">Volume Boost</string>
+    <string name="slide_bass">Baixo</string>
+    <string name="slide_treble">Agudo</string>
+    <string name="preset_header">O que está a ouvir?</string>
+    <string name="reset_defaults">Redefinir definições</string>
+    <string name="switch_on">switch_on</string>
+    <string name="switch_off">switch_off</string>
+    <string name="actionbar_title">Efeitos DTS</string>
+</resources>
